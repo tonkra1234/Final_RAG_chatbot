@@ -38,22 +38,27 @@ The ‘hallucination’ problem of the LLMs is eliminated because of the additio
 
 ## Prerequisites
 
-Before starting develope RAG chatbot, These packages should be installed on the system consisting of :
+Before starting develope RAG chatbot, Python >=3.10.0 and these packages should be installed on the system consisting of :
 
-1. langchain - 
-2. langchain-community - 
-3. sentence-transformers - 
-4. faiss-cpu - 
-5. ctransformers - 
-6. pypdf - 
-7. streamlit - 
-8. pandas - 
-9. langchain-experimental - 
-10. pacmap - 
-11. plotly - 
-12. numpy - 
+1. langchain
+2. langchain-community
+3. sentence-transformers 
+4. faiss-cpu 
+5. ctransformers
+6. pypdf
+7. streamlit
+8. pandas
+9. langchain-experimental
+10. pacmap
+11. plotly 
+12. numpy
 
 ## Installation
+
+1. Clone this repository to the local machine
+    git clone https://github.com/tonkra1234/Final_RAG_chatbot.git
+2. Install the requirement packages
+    pip install -r requirements.txt
 
 ## Getting Started
 
