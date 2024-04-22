@@ -1,15 +1,20 @@
 # Natbot - RAG (Retrieval-augmented generation) ChatBot
-![Alt text](https://github.com/tonkra1234/Final_RAG_chatbot/blob/main/Description/RAG%20chatbot.PNG#center)
+![Alt text](https://github.com/tonkra1234/Final_RAG_chatbot/blob/main/Description/RAG%20chatbot.PNG)
 
-# Table of contents
+## Table of contents
+- [Introduction](#introduction)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Getting Started](#Getting Started)
+- [References](#references)
+## Introduction
 
-# Introduction
+## Prerequisites
 
-# Prerequisites
+## Installation
 
-# Installation
+## Getting Started
 
-# Getting Started
-
+## References
 
 
