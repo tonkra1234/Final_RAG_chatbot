@@ -6,7 +6,7 @@
 </p>
 
 
-Retrieval-Augmented Generation (RAG) for chatbots using [LangChain](https://python.langchain.com/docs/get_started/introduction.html) and [Huggingface][https://huggingface.co/] to retrieve the informations from the documents and [Streamlit][https://streamlit.io/] to create friendly user interface. The structure and components will be discussed to clearer understand about RAG chatbot.
+Retrieval-Augmented Generation (RAG) for chatbots using [LangChain](https://python.langchain.com/docs/get_started/introduction.html) and [Huggingface](https://huggingface.co/) to retrieve the informations from the documents and [Streamlit](https://streamlit.io/) to create friendly user interface. The structure and components will be discussed to clearer understand about RAG chatbot.
 
 ### Artificial Intelligence and Chatbot
 
