@@ -5,7 +5,7 @@
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Getting Started](#Getting Started)
+- [Getting Started](#Getting-Started)
 - [References](#references)
 ## Introduction
 
