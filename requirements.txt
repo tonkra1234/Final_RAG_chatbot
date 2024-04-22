@@ -1,0 +1,13 @@
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+ctransformers
+pypdf
+streamlit
+pandas
+langchain-experimental
+pacmap
+plotly
+numpy
+
