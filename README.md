@@ -56,9 +56,13 @@ Before starting develope RAG chatbot, Python >=3.10.0 and these packages should 
 ## Installation
 
 1. Clone this repository to the local machine
-    git clone https://github.com/tonkra1234/Final_RAG_chatbot.git
+```shell
+git clone https://github.com/tonkra1234/Final_RAG_chatbot.git
+```
 2. Install the requirement packages
-    pip install -r requirements.txt
+```shell
+pip install -r requirements.txt
+```
 
 ## Getting Started
 
